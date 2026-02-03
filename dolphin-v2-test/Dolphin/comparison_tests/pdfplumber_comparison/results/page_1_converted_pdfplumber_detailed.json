@@ -1,0 +1,19 @@
+{
+  "file": "/home/repo-study/Dolphin/comparison_tests/pdfplumber_comparison/results/page_1_converted.pdf",
+  "tool": "pdfplumber",
+  "processing_time": 0.004398345947265625,
+  "timestamp": "2026-01-30T10:31:11.605245",
+  "total_pages": 1,
+  "pages_with_text": 0,
+  "total_tables": 0,
+  "detailed_results": [
+    {
+      "page_number": 1,
+      "text": "",
+      "tables": [],
+      "text_lines": [],
+      "text_length": 0,
+      "table_count": 0
+    }
+  ]
+}

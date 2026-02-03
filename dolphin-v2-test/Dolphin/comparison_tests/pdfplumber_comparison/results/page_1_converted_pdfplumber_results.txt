@@ -1,0 +1,14 @@
+PDFPlumber Results for: /home/repo-study/Dolphin/comparison_tests/pdfplumber_comparison/results/page_1_converted.pdf
+Processing time: 0.00 seconds
+Generated at: 2026-01-30 10:31:11
+================================================================================
+
+=== PAGE 1 ===
+[NO TEXT EXTRACTED]
+
+================================================================================
+ANALYSIS:
+- Total pages processed: 1
+- Pages with text: 0
+- Total tables detected: 0
+- Processing time: 0.00s
